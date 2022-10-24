@@ -8,7 +8,7 @@ L'objectif de ce cours est de réussir à faire un clicker plus ou moins complex
 
 ## Rappels : 
 
-Les types de variables : 
+**Les types de variables** : 
 
 * int : nombre entier, 1
 * float : nombre a virgule, 2.5f
@@ -16,7 +16,7 @@ Les types de variables :
 * string : chaine de charactères, "mot"
 * Autres
 
-Les niveaux de protections : 
+**Les niveaux de protections** : 
 
 * public : accessible par tous
 * protected : accessible par les scripts qui hérite de cette classe
@@ -31,7 +31,7 @@ Exemple :
 public float nombre = 1.2f;
 ```
 
-Les fonctions : 
+**Les fonctions** : 
 
 Une fonction est une "commande" qui retourne généralement une valeur en prenant en compte plusieurs paramètres.
 
