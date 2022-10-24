@@ -6,7 +6,25 @@ Ce repository est un exercice de cours de soutien a Unity et au C# pour débutan
 
 L'objectif de ce cours est de réussir à faire un clicker plus ou moins complexe. Il contient une scene déja préconfigurée ainsi qu'un GameManager en Singleton.
 
+## Contenu : 
+
+L'objectif de ce cours est de réussir à faire un clicker plus ou moins complexe. Il contient une scene déja préconfigurée ainsi qu'un GameManager en Singleton.
+
+## Taches : 
+
+Voici une proposition non-exhaustive de features à ajouter dans le jeu.
+
+* Augmentation du score quand on clique.
+* Ajout d'un visuel d'un ennemis.
+* Améliorations et score automatique.
+* Bar de vie.
+* Animations du personnage
+* Animation autres
+* Menu principal
+* Ce que vous voulez
+
 ## Rappels : 
+
 
 **Les types de variables** : 
 
@@ -15,6 +33,7 @@ L'objectif de ce cours est de réussir à faire un clicker plus ou moins complex
 * bool : condition vrai ou faux, true
 * string : chaine de charactères, "mot"
 * Autres
+
 
 **Les niveaux de protections** : 
 
@@ -30,6 +49,7 @@ Exemple :
 ```
 public float nombre = 1.2f;
 ```
+
 
 **Les fonctions** : 
 
